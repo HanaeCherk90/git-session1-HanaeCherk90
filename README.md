@@ -11,7 +11,7 @@
 
 ## Description
 
-A simple web project created to practice Git and GitHub fundamentals.
+A simple web project created to practice Git and GitHub fundamentals, including remote sync.
 
 ## Technologies
 
