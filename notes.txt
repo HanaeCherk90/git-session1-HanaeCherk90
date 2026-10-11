@@ -1,0 +1,3 @@
+Personal development notes.
+
+Run git status before staging and committing files.
